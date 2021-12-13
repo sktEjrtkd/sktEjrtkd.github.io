@@ -2,7 +2,7 @@
 layout: page
 title: About
 ---
-Hi. I'm Changhyeon Nam, interested in python, nlp, ps. I keep studying to become an expert.
+Hi. I'm sktEjrtkd.
 
 
-contact : <a href="mailto:hj04143@gmail.com">hj04143@gmail.com</a>
+contact : <a href="mailto:lyg3715@naver.com">lyg3715@naver.com</a>
