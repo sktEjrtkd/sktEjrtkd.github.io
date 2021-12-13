@@ -1,10 +1,10 @@
-name: ChangHyeon Nam's Blog
-url: 'https://changhyeonnam.github.io'
-description: 'notes and thoughts'
+name: sktEjrtkd's Blog
+url: 'https://sktEjrtkd.github.io'
+description: 'notes for engineering'
 
 exclude: [Gemfile, Gemfile.lock, README.md]
 
-author: 'ChangHyeon Nam'
+author: 'sktEjrtkd'
 disqus_shortname: Nam
 # google_analytics: G-NN7JP65RMS
 
